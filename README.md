@@ -2,10 +2,6 @@
 
 ### Aspiring Full Stack Developer | Java | MERN Stack | Problem Solver
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhya9186&label=Profile views&color=0e75b6&style=flat" alt="sandhya9186" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandhya9186" alt="sandhya9186" /></a> </p>
-
 - 🔭 I'm currently working on **RakshaNet – A Women Safety Android Application with SOS alerts, live location sharing, Telegram Bot integration, and MongoDB backend.**
 
 - 🌱 I'm currently learning **Java, Android Development, MERN Stack, Data Structures & Algorithms, SQL, and System Design.**
